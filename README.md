@@ -10,7 +10,7 @@ http://120.78.142.165:2907/
 
 1.克隆项目地址并下载（需要安装Git）
 
-git clone git@github.com:liumiemie/bookManagementSystem.git
+git clone git@github.com:xiaoxiaoxian123/bookManagementSystem.git
 
 2.通过npm安装本地服务第三方依赖模块（需要安装Node.js）
 
